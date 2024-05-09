@@ -1,0 +1,19 @@
+[
+    {
+    "first": "Mingi",
+    "last": "Song",
+    "topic": "JavaScript"
+    },
+    {
+        "first": "Yoongi",
+        "last": "Min",
+        "topic": "HTML"
+
+    },
+    {
+        "first": "Kim",
+        "last": "Mingyu",
+        "topic": "CSS"
+
+    }
+]
