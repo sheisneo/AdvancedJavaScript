@@ -1,7 +1,9 @@
-// Exercise 4
-let value = 10;
-value += 5;
-value -= 2;
-value *= 3;
-value /= 2;
-console.log(value); // Final result
+//Exercise 4
+let a = 10;
+let b = 5;
+let c = 3;
+
+a += b;    
+a /= c;    
+c %= b;    
+console.log(a, b, c); 

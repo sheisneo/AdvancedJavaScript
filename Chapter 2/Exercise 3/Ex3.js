@@ -1,8 +1,11 @@
-// Exercise 3
-let x = 10 + 5;    // 15
-let y = 10 - 5;    // 5
-let z = 10 * 5;    // 50
-let w = 10 / 2;    // 5
-let r = 10 % 3;    // 1
+//Exercise 3
+let a = prompt("Enter side a:");
+let b = prompt("Enter side b:");
 
-console.log(x, y, z, w, r);
+a = Number(a);
+b = Number(b);
+
+let c = Math.sqrt(a * a + b * b); // or Math.sqrt(a**2 + b**2)
+
+console.log("The hypotenuse is: " + c);
+
