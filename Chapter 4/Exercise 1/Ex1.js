@@ -1,5 +1,5 @@
 // Exercise 1
-let isMember = true; 
+let isMember = false; 
 
 console.log(isMember); 
 
