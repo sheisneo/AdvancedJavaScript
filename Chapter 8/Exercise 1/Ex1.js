@@ -1,6 +1,6 @@
 // Exercise 1
-let originalString = "How's it going?#";
-let url = "http://www.basescripts.com?=Hello World";
+let originalString = "How's it going?";
+let url = "http://www.basescripts.com?= Hello World";
 
 let encodedComponent = encodeURIComponent(originalString);
 let decodedComponent = decodeURIComponent(encodedComponent);

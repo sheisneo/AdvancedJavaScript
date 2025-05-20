@@ -9,10 +9,8 @@ class Person {
     return `${this.firstName} ${this.lastName}`;
   }
 }
-
-// Step 2: Create instances
-let person1 = new Person("Neo", "Anderson");
-let person2 = new Person("Trinity", "Unknown");
+let person1 = new Person("Neo", "M");
+let person2 = new Person("Aishwarya", "Singh");
 
 console.log("Friend 1:", person1.fullName());
 console.log("Friend 2:", person2.fullName());

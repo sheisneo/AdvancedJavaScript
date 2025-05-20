@@ -5,9 +5,9 @@ class Person {
     this.lastName = lastName;
   }
 }
-let friend1 = new Person("Neo", "Anderson");
+let friend1 = new Person("Neo", "M");
 
-let friend2 = new Person("Trinity", "Unknown");
+let friend2 = new Person("Aishwarya", "Singh");
 console.log(`Hello, ${friend1.firstName} ${friend1.lastName}!`);
 console.log(`Hello, ${friend2.firstName} ${friend2.lastName}!`);
 

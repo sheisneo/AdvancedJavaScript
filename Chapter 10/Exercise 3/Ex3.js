@@ -3,7 +3,7 @@ const heading = document.getElementById("main-heading");
 
 console.log("Selected element:", heading);
 
-heading.textContent = "Updated Heading";
+// heading.textContent = "Updated Heading";
 
-heading.style.color = "purple";
-heading.style.fontFamily = "Arial";
+// heading.style.color = "purple";
+// heading.style.fontFamily = "Arial";
